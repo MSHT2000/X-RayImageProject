@@ -1,0 +1,30 @@
+C:\Users\ABC\source\repos\lecture ^\lecture ^\bin\Debug\lecture ^.exe.config
+C:\Users\ABC\source\repos\lecture ^\lecture ^\bin\Debug\lecture ^.exe
+C:\Users\ABC\source\repos\lecture ^\lecture ^\bin\Debug\lecture ^.pdb
+C:\Users\ABC\source\repos\lecture ^\lecture ^\bin\Debug\Emgu.CV.dll
+C:\Users\ABC\source\repos\lecture ^\lecture ^\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ABC\source\repos\lecture ^\lecture ^\bin\Debug\System.Buffers.dll
+C:\Users\ABC\source\repos\lecture ^\lecture ^\bin\Debug\System.Memory.dll
+C:\Users\ABC\source\repos\lecture ^\lecture ^\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ABC\source\repos\lecture ^\lecture ^\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ABC\source\repos\lecture ^\lecture ^\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\ABC\source\repos\lecture ^\lecture ^\bin\Debug\System.Text.Json.dll
+C:\Users\ABC\source\repos\lecture ^\lecture ^\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ABC\source\repos\lecture ^\lecture ^\bin\Debug\System.ValueTuple.dll
+C:\Users\ABC\source\repos\lecture ^\lecture ^\bin\Debug\Emgu.CV.xml
+C:\Users\ABC\source\repos\lecture ^\lecture ^\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\ABC\source\repos\lecture ^\lecture ^\bin\Debug\System.Buffers.xml
+C:\Users\ABC\source\repos\lecture ^\lecture ^\bin\Debug\System.Memory.xml
+C:\Users\ABC\source\repos\lecture ^\lecture ^\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ABC\source\repos\lecture ^\lecture ^\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ABC\source\repos\lecture ^\lecture ^\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\ABC\source\repos\lecture ^\lecture ^\bin\Debug\System.Text.Json.xml
+C:\Users\ABC\source\repos\lecture ^\lecture ^\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ABC\source\repos\lecture ^\lecture ^\bin\Debug\System.ValueTuple.xml
+C:\Users\ABC\source\repos\lecture ^\lecture ^\obj\Debug\lecture 6.csproj.AssemblyReference.cache
+C:\Users\ABC\source\repos\lecture ^\lecture ^\obj\Debug\lecture__.Properties.Resources.resources
+C:\Users\ABC\source\repos\lecture ^\lecture ^\obj\Debug\lecture 6.csproj.GenerateResource.cache
+C:\Users\ABC\source\repos\lecture ^\lecture ^\obj\Debug\lecture 6.csproj.CoreCompileInputs.cache
+C:\Users\ABC\source\repos\lecture ^\lecture ^\obj\Debug\lecture 6.csproj.Up2Date
+C:\Users\ABC\source\repos\lecture ^\lecture ^\obj\Debug\lecture ^.exe
+C:\Users\ABC\source\repos\lecture ^\lecture ^\obj\Debug\lecture ^.pdb
